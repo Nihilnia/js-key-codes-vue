@@ -12,7 +12,7 @@
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
   },
-  "homepage": "https://your-username.github.io/your-repository-name",
+  "homepage": "https://nihilnia.github.io/js-key-codes-vue",
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
